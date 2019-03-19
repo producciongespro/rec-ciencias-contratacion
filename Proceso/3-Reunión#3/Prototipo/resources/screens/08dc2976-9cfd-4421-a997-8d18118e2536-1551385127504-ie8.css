@@ -1,0 +1,38 @@
+#s-08dc2976-9cfd-4421-a997-8d18118e2536 #s-Button_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-08dc2976-9cfd-4421-a997-8d18118e2536 #s-Text_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-08dc2976-9cfd-4421-a997-8d18118e2536 #s-Button_2 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-08dc2976-9cfd-4421-a997-8d18118e2536 #s-Image_1 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-08dc2976-9cfd-4421-a997-8d18118e2536 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
